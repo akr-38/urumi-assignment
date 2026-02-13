@@ -1,0 +1,4 @@
+redis==5.0.1
+requests
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9

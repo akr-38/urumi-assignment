@@ -1,0 +1,24 @@
+# System files
+.gemini/
+.agent/
+kubeconfig.yaml
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# Misc
+.DS_Store
+*.log
