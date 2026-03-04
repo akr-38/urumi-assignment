@@ -2,7 +2,7 @@
 
 A scalable, secure, and automated platform for provisioning WordPress/WooCommerce stores on Kubernetes.
 
-## 🚀 Live Demo
+## 🚀 Video Demo
 
 <a href="https://drive.google.com/file/d/1fcsj416yatA_h9i1hcxkr_KurmBS9-ct/view?usp=drive_link" target="_blank">
   <img width="1177" height="438" alt="Platform Demo"
